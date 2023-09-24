@@ -3,6 +3,7 @@ Great! Based on the information you provided, here's a template for your README 
 # People Resources Analysis Project
 
 ![Alt Text](https://github.com/AhmedNasser02/People-Resources-Analysis-Dashboard/blob/main/People1.PNG)
+![alt text](https://github.com/AhmedNasser02/People-Resources-Analysis-Dashboard/blob/main/People2.PNG)
 
 ## Description
 The People Resources Analysis Project is aimed at providing insights into workforce demographics, employee salaries, and key performance indicators (KPIs) for an organization. This project uses Excel and Power BI to analyze data and generate valuable visualizations and insights.
@@ -12,9 +13,7 @@ The People Resources Analysis Project is aimed at providing insights into workfo
 2. [Usage](#usage)
 3. [Configuration](#configuration)
 4. [Contributing](#contributing)
-5. [License](#license)
-6. [Authors](#authors)
-7. [Acknowledgments](#acknowledgments)
+
 
 ## Installation
 To use this project, follow these steps:
